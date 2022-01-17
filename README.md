@@ -6,4 +6,4 @@ by VGG16 model the divide the maps to count each part separately then evaluate t
 The second stage uses a pretrained Retina Face model for face detection. Then training Face Mask Classifier models trying NasNet Mobile and MobileNetV2 on dataset and based on performance, 
 the NasNet model was selected for classifying faces as masked or non-masked 
 
-![This is an image](https://drive.google.com/file/d/15I9F9vue39prjlkocUjTNDoI2MRbitKp/view?usp=sharing)
+https://drive.google.com/file/d/15I9F9vue39prjlkocUjTNDoI2MRbitKp/view?usp=sharing/gp.mp4
